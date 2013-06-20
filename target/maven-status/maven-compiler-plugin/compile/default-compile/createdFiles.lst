@@ -1,0 +1,5 @@
+com\dummiesmind\model\Task.class
+com\dummiesmind\annotations\XMLTag.class
+com\dummiesmind\annotations\XMLObject.class
+com\dummiesmind\tester\AnnotationHandlerTest.class
+com\dummiesmind\processor\AnnotationHandler.class
